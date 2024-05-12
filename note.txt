@@ -1,0 +1,2 @@
+## remove one line text contain text `!--` (can be used to delete comment html)
+o> ^.*(!--).*\n?
